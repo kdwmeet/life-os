@@ -66,3 +66,5 @@ uv run streamlit run main.py
 5. 결과 검증: 시스템 로그에서 과거의 '우유 알러지 및 오트 밀크' 관련 기억이 성공적으로 인출(Retrieval)되는지 확인하고, 최종 답변이 오트 밀크가 적용된 메뉴를 제안하는지 검증합니다.
 
 ## 8. 실행 화면
+
+<img width="1617" height="909" alt="스크린샷 2026-04-27 103525" src="https://github.com/user-attachments/assets/19e7fb23-9a9f-49ed-a16a-f5ad524e9686" />
